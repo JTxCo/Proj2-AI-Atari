@@ -1,0 +1,17 @@
+#[]: # Language: markdown
+What is github copilot?
+GitHub Copilot is an artificial intelligence (AI) tool developed by GitHub in collaboration with OpenAI, which uses machine learning to generate code suggestions. It is designed to help developers write code faster and more efficiently.GitHub Copilot currently uses GPT (Generative Pre-trained Transformer) as its machine learning algorithm. While Codex was the original AI tool, the current version of GitHub Copilot is based on the GPT algorithm. GPT is a more advanced and versatile algorithm than Codex and is capable of generating code suggestions for a wider range of programming languages and uses a transformer architecture to generate natural language text just like Codex used to do. It is not known why there was a switch but the GPT model is a more adavanced model. It was trained on a variety of data such as books and other text documwents to Github itself using repositories as training data which may lead to errors. I used it for autfilling and code suggesting when i got stuck
+
+why did you choose the games you chose?
+
+four games chosen: 
+1. battleZone: I chose this since it is a dynamic first person view in, but it was developed in the 1970s. I think it is a good example of how far we have come in terms of graphics and game play. Also, it is just a fun game to play. It was one of the first games to use a 3D engine, vector graphics, and a first person view.
+
+2. Asteroids: I chose this game sicne it is a pretty famous game and it has a good amount of actions. Plus there is a simple reward system with obvious way of dying. It was also very popular in the 1970s and 1980s.
+3. Pitfall: I chose this game since since the game ist structured differnetly to normal gaemes as there is a 20 min time limit to find the treasure. 
+4. Centipde: I chose this game because it was one of teh most iconic games from Atari. It was also quite difficult with many actions to take
+
+
+
+
+To use Q-learning to train an agent to play an Atari game in OpenAI Gym, you would need to define the state space, action space, and reward function for the game. You would then initialize a Q-table to store the expected reward for each action in each state, and use the Q-learning algorithm to update the Q-values based on the agent's experience in the environment. The agent would then use the Q-table to select actions that maximize the expected reward. 
